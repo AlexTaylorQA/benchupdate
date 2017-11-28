@@ -1,0 +1,6 @@
+Project: Implement puppet using Docker
+
+Ran into issues using Dockerfile with Amazon Linux instances, restarted on Ubuntu instances.
+Installed Puppet Master on one instance and Puppet Agent on the other. Configured both.
+Installed Docker on Master instance.
+Ran into issues attempting to connect to Master with Agent to confirm certificates.

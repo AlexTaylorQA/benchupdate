@@ -1,4 +1,4 @@
-Project: Implement puppet using Docker
+Project: Distribute Docker containers with Puppet
 Docker installed
 Puppet server installed on main host
 Constructing Dockerfile to install puppet agent onto node machines

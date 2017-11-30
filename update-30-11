@@ -1,0 +1,5 @@
+Solved master/agent connection errors and issues with Puppet agent instance.
+Finished setting up and configuring Puppet.
+Finished setting up Docker. 
+Currently working on using Puppet to launch Docker containers to the Puppet agents.
+

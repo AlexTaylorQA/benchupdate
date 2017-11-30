@@ -3,5 +3,4 @@ Project: Distribute Docker containers with Puppet
 Solved master/agent connection errors and issues with Puppet agent instance.
 Finished setting up and configuring Puppet.
 Finished setting up and configuring Docker. 
-Currently working on using Puppet to launch Docker containers to the Puppet agents.
-
+Puppet successfully used a manifest to install and run Docker and Jenkins on the Agent node.
